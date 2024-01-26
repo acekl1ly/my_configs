@@ -1,1 +1,1 @@
-This configs are backups and work of hours of googling and searching
+This configs are backups and effort of hours of googling and debugging 
